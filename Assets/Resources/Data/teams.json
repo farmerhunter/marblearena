@@ -1,0 +1,80 @@
+[
+  {
+    "id": "horizon",
+    "name_zh": "日光俱乐部",
+    "name_en": "Daylight",
+    "description": "在弹珠乐园相遇，带着各自的花纹一起出发。",
+    "primary_color": "#FF8261",
+    "secondary_color": "#4B8BFF",
+    "emblem": "horizon",
+    "members": [
+      "ember",
+      "undertow"
+    ]
+  },
+  {
+    "id": "prism",
+    "name_zh": "海风小队",
+    "name_en": "Seabreeze",
+    "description": "在弹珠乐园相遇，带着各自的花纹一起出发。",
+    "primary_color": "#63E5DE",
+    "secondary_color": "#B87BFF",
+    "emblem": "prism",
+    "members": [
+      "aurora",
+      "rift"
+    ]
+  },
+  {
+    "id": "verdant",
+    "name_zh": "绿荫社",
+    "name_en": "Greenwood",
+    "description": "在弹珠乐园相遇，带着各自的花纹一起出发。",
+    "primary_color": "#72D7A0",
+    "secondary_color": "#FFC84C",
+    "emblem": "bolt",
+    "members": [
+      "jade",
+      "volt"
+    ]
+  },
+  {
+    "id": "polar",
+    "name_zh": "白桦工房",
+    "name_en": "Birchworks",
+    "description": "在弹珠乐园相遇，带着各自的花纹一起出发。",
+    "primary_color": "#B1EDFF",
+    "secondary_color": "#8999AE",
+    "emblem": "crystal",
+    "members": [
+      "frost",
+      "obsidian"
+    ]
+  },
+  {
+    "id": "solstice",
+    "name_zh": "果酱队",
+    "name_en": "Marmalade",
+    "description": "在弹珠乐园相遇，带着各自的花纹一起出发。",
+    "primary_color": "#FFA64F",
+    "secondary_color": "#FF72B4",
+    "emblem": "sun",
+    "members": [
+      "sol",
+      "nova"
+    ]
+  },
+  {
+    "id": "orbit",
+    "name_zh": "漫游社",
+    "name_en": "Wanderers",
+    "description": "在弹珠乐园相遇，带着各自的花纹一起出发。",
+    "primary_color": "#EEDCC8",
+    "secondary_color": "#778CFF",
+    "emblem": "orbit",
+    "members": [
+      "pearl",
+      "orbit"
+    ]
+  }
+]
